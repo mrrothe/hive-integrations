@@ -3,7 +3,7 @@
 ## Prerequisities
 
 + A running instance of [TheHive](https://github.com/TheHive-Project/TheHive)
-+ [thehive4py](https://github.com/TheHive-Project/TheHive4py) which can be installed with pip install -r requirements.txt
++ [thehive4py](https://github.com/TheHive-Project/TheHive4py) which can be installed with `pip install -r requirements.txt`
 + Python 3.x
 
 ## Getting Started
