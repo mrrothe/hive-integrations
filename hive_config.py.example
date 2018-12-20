@@ -1,0 +1,4 @@
+# Details below need to be edited to match environment
+url='1.2.3.4' # FQDN or IP where hive web service is accessible
+port=9000 # Default is 9000
+apikey='' # Get this from the hive web interface
